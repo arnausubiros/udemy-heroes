@@ -29,5 +29,11 @@ Un  **gran poder** requiere _una_  gran *responsabilidad*
 
 [Ir a la imagen ] (https://s-media-cache-ak0.pinimg.com/736x/e5/a0/69/e5a06942fa42823c88be5f3a834e063d--fantastic-art-bat-family.jpg)
 
+Writing in _Markdown_ is not that hard! 
+
+I will complete **these** lessons!
+
+"Of course, **_she whispered_**. Then, she shouted: "**All I need** is a little moxie!"
+
 
 
